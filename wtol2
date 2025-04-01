@@ -1,53 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="https://www.wtol.com" source-info-name="WTOL-TV" generator-info-name="Custom XMLTV Generator">
+
   <channel id="WTOLDT1.us">
     <display-name>WTOL-DT1</display-name>
+    <display-name>WTOL 11</display-name>
     <icon src="https://i.imgur.com/NCpIwNs.jpg"/>
   </channel>
 
   <programme start="20250401T060000Z" stop="20250401T070000Z" channel="WTOLDT1.us">
     <title>WTOL 11 This Morning</title>
+    <sub-title>Morning News</sub-title>
     <desc>News coverage to start the day.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E01</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250401T120000Z" stop="20250401T123000Z" channel="WTOLDT1.us">
     <title>WTOL 11 News at Noon</title>
+    <sub-title>Midday Update</sub-title>
     <desc>Midday news update.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250401T160000Z" stop="20250401T170000Z" channel="WTOLDT1.us">
     <title>WTOL 11 News at Four</title>
+    <sub-title>Evening News</sub-title>
     <desc>Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E03</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250401T170000Z" stop="20250401T180000Z" channel="WTOLDT1.us">
     <title>WTOL 11 News at Five</title>
+    <sub-title>Evening News</sub-title>
     <desc>Local and regional news.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E04</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250401T180000Z" stop="20250401T190000Z" channel="WTOLDT1.us">
     <title>WTOL 11 News at Six</title>
+    <sub-title>Evening News</sub-title>
     <desc>Local and regional news.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E05</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250401T183000Z" stop="20250401T190000Z" channel="WTOLDT1.us">
     <title>CBS Evening News</title>
+    <sub-title>National News</sub-title>
     <desc>The latest world and national news.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E06</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250401T230000Z" stop="20250401T233500Z" channel="WTOLDT1.us">
     <title>WTOL 11 News at Eleven</title>
+    <sub-title>Late Night News</sub-title>
     <desc>Local and regional news.</desc>
+    <date>20250401</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E07</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250402T023700Z" stop="20250402T043700Z" channel="WTOLDT1.us">
     <title>CBS News Roundup</title>
+    <sub-title>Overnight News</sub-title>
     <desc>Overnight headlines, MoneyWatch, health, consumer news, weather, and inspiring stories.</desc>
+    <date>20250402</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E08</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
   <programme start="20250402T043700Z" stop="20250402T050000Z" channel="WTOLDT1.us">
     <title>CBS News Mornings</title>
+    <sub-title>Morning News</sub-title>
     <desc>Up-to-date news, weather forecasts, and sports highlights.</desc>
+    <date>20250402</date>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2025E09</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown/>
+    <subtitles type="teletext"/>
   </programme>
 
 </tv>
