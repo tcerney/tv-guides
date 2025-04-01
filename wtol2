@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="WTOLDT1.us">
+    <display-name>WTOL-DT1</display-name>
+    <icon src="https://i.imgur.com/NCpIwNs.jpg"/>
+  </channel>
+
+  <programme start="20250401T060000Z" stop="20250401T070000Z" channel="WTOLDT1.us">
+    <title>WTOL 11 This Morning</title>
+    <desc>News coverage to start the day.</desc>
+  </programme>
+
+  <programme start="20250401T120000Z" stop="20250401T123000Z" channel="WTOLDT1.us">
+    <title>WTOL 11 News at Noon</title>
+    <desc>Midday news update.</desc>
+  </programme>
+
+  <programme start="20250401T160000Z" stop="20250401T170000Z" channel="WTOLDT1.us">
+    <title>WTOL 11 News at Four</title>
+    <desc>Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
+  </programme>
+
+  <programme start="20250401T170000Z" stop="20250401T180000Z" channel="WTOLDT1.us">
+    <title>WTOL 11 News at Five</title>
+    <desc>Local and regional news.</desc>
+  </programme>
+
+  <programme start="20250401T180000Z" stop="20250401T190000Z" channel="WTOLDT1.us">
+    <title>WTOL 11 News at Six</title>
+    <desc>Local and regional news.</desc>
+  </programme>
+
+  <programme start="20250401T183000Z" stop="20250401T190000Z" channel="WTOLDT1.us">
+    <title>CBS Evening News</title>
+    <desc>The latest world and national news.</desc>
+  </programme>
+
+  <programme start="20250401T230000Z" stop="20250401T233500Z" channel="WTOLDT1.us">
+    <title>WTOL 11 News at Eleven</title>
+    <desc>Local and regional news.</desc>
+  </programme>
+
+  <programme start="20250402T023700Z" stop="20250402T043700Z" channel="WTOLDT1.us">
+    <title>CBS News Roundup</title>
+    <desc>Overnight headlines, MoneyWatch, health, consumer news, weather, and inspiring stories.</desc>
+  </programme>
+
+  <programme start="20250402T043700Z" stop="20250402T050000Z" channel="WTOLDT1.us">
+    <title>CBS News Mornings</title>
+    <desc>Up-to-date news, weather forecasts, and sports highlights.</desc>
+  </programme>
+
+</tv>
